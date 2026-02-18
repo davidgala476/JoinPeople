@@ -22,7 +22,7 @@
 
 1. El sistema debe permitir el ingreso de horarios y disponibilidad del usuario.
 2. Las notificaciones de una fecha y lugar encontrado acorde a los intereses y disponibilidad de cada uno debe realizarse para cada integrante y lo antes posible.
-3. El sistema debe permitir registrar un tipo de historial entre protocolos y cambios realizados aparte de mostrar los eventos ya culminados entre usuarios.
+3. El sistema debe permitir registrar un tipo de historial entre protocolos y cambios realizados aparte de mostrar los eventos ya culminados entre usuarios aparte de poder tener funciones adicionales de añadir multimedia o contenido fotografico para la realizacion de un tipo de album entre los usuarios visible para todos. 
 
 ### Requisitos Funcionales (Draft Técnico)
 * **RF-01 (Módulo de Alertas):** El sistema debe implementar un servicio de notificaciones push y/o correo electrónico para notificacion y recordatorio de nuevas reuniones entre los usuarios permitiendo que en su totalidad o mayoria asistan. 
