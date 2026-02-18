@@ -25,9 +25,9 @@
 3. El sistema debe permitir registrar un tipo de historial entre protocolos y cambios realizados aparte de mostrar los eventos ya culminados entre usuarios.
 
 ### Requisitos Funcionales (Draft Técnico)
-* **RF-01 (Módulo de Alertas):** El sistema debe implementar un servicio de notificaciones push y/o correo electrónico para notificacion y recordatorio de nuevas reuniones.
+* **RF-01 (Módulo de Alertas):** El sistema debe implementar un servicio de notificaciones push y/o correo electrónico para notificacion y recordatorio de nuevas reuniones entre los usuarios permitiendo que en su totalidad o mayoria asistan. 
 * **RF-02 (Persistencia de Datos):** El sistema debe almacenar registros de cada usuario permitiendo un tipo de agenda y contar con un asistente virtual que de opciones de organizacion para el mismo.
 * **RF-03 (Gestión Multimedia):** El sistema debe permitir tambien el conteo y registro de eventos realizados con la posibilidad de añadir informacion y contenido multimedia como un tipo de album de recuerdos si asi se desea pero que la opcion este abierta para el usuario. 
 
 # conclusion 
-Las personas les cuesta en gran cantidad la organizacion en muchos sentidos sobre todo en aspectos que involucren otras personas.
+Las personas les cuesta en gran cantidad la organizacion en muchos sentidos sobre todo en aspectos que involucren otras personas. 
